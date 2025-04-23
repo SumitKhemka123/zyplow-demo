@@ -138,11 +138,11 @@ The application includes built-in performance metrics to visualize the impact of
 
 ### Performance Screenshots
 
-#### First Load (Cache Miss)
-![Cache Miss Performance](https://example.com/cache-miss.png)
+![Screenshot 2025-04-23 164749](https://github.com/user-attachments/assets/fa9e9e12-3eba-4a0c-b5b0-86e193a7a31c)
+![Screenshot 2025-04-23 163134](https://github.com/user-attachments/assets/e92999e8-cb25-4311-9034-031bdb9ddb6d)
+![Screenshot 2025-04-23 162936](https://github.com/user-attachments/assets/3a528647-9455-415b-b1db-bdbd3b04729c)
 
-#### Subsequent Load (Cache Hit)
-![Cache Hit Performance](https://example.com/cache-hit.png)
+
 
 ## Testing the Caching Mechanism
 
